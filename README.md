@@ -1,19 +1,14 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=80&section=header"/>
 
-<div align="center"> 
+<div align="center"><strong>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SFmono+pause=1000&color=008F11&vCenter=true&width=435&lines=Hi+guys%2C+Bruna+Oliveira%2C+here+!!!+;I'm+Dev+Front-end%2C++currently+)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SFMono-bold&size=32&duration=4000&pause=500&color=24292F&center=true&vCenter=true&width=550&lines=Hi%2C+guys!!!;Bruna+Oliveira%2C+Here!!;+I'm+DEV+Front-End%2C+currently!;Wellcome+to+My+GitHub!)](https://git.io/typing-svg)
+  </strong>
+  <br><br><br>
 </div>
 
-
-
-
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+## :computer: &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -22,21 +17,20 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+## :bar_chart: &nbsp;GitHub Analytics
 
 <div align="center">  
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruna-luc&show_icons=true&count_private=true&hide_border=true&title_color=008F11&&icon_color=008F11&&text_color=c9d1d9&bg_color=000&font=Consolas" alt="Bruna Oliveira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruna-luc&show_icons=true&count_private=true&hide_border=true&title_color=000&&icon_color=24292F&&text_color=24292FFF&bg_color=fff&&font=Consolas" alt="Bruna Oliveira github stats" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-luc&layout=compact&hide_border=true&title_color=008F11&text_color=c9d1d9&bg_color=000&font=Consolas" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-luc&layout=compact&hide_border=true&title_color=000&text_color=24292F&bg_color=fff&&font=Consolas" />
 </div>
-<br>
-<br><br>
 
-## Contact 
 
-<p align="left" style="background:yellow">
+## :grin: Contact 
+
+<p align="left" >
+  
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-BrunaOliveira-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
@@ -50,18 +44,15 @@
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-BrunaOliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-
-
+  
 </p>
 
 
 
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{bruna-luc}/count.svg" /></p> 
-<br></div>
-  
-  
+</div>
   
   
 
